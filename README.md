@@ -5,8 +5,8 @@ A responsive, single-page website for **GDG on Campus – Rajeev Institute of Te
 Built with plain **HTML, CSS and JavaScript**. No frameworks and no build step.
 
 ## Live Demo
+https://gdg-club-website.vercel.app/
 
-Add your link here once deployed (see [Deployment](#deployment)):
 
 `https://pavip6497-source.github.io/GDG-Club-Website/`
 
